@@ -24,6 +24,9 @@ A simple and responsive Currency Converter web application built using HTML, CSS
 - app.js
 - code.js
 
+## Live Demo
+https://priiyaa56.github.io/currency-converter/
+
 ## ▶️ How to Run
 
 1. Clone the repository.
