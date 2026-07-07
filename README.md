@@ -16,9 +16,6 @@ A simple and responsive Currency Converter web application built using HTML, CSS
 - JavaScript
 - Exchange Rate API
 
-## 📸 Screenshot
-
-(Add a screenshot of your project here)
 
 ## 📂 Project Structure
 
